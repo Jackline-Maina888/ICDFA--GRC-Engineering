@@ -1,0 +1,1 @@
+AI tools were used for brainstorming, report structuring, and language refinement. All findings, analysis, recommendations, and conclusions were independently reviewed, verified, and adapted by the author. Responsibility for the accuracy and originality of this submission remains solely with the author.
