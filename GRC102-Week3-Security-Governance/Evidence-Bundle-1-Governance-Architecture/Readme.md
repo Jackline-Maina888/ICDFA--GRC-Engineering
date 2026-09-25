@@ -8,7 +8,7 @@ To assess weaknesses in the current governance structure and design an improved 
 - Governance Gap Assessment
 - Stakeholder Map
 - Security Governance Organisation Chart
-- Consultant Justification
+- Consultant Justification.
 
 ## Key Outcomes
 - Identified governance weaknesses and accountability gaps.
